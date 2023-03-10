@@ -2,7 +2,7 @@ Olá, 👋
 
 Meu nome é Lafaiete, sou Analista Testes e QA.
 
-- 🔭 Atualmente trabalho com Teste de API com o Postman
+- 🔭 Atualmente atuo em um projeto onde o foco é Testes de API utilizando o Postman
 - 🌱 Estou estudando automação de testes em Cypress
 
 <div align="center">
