@@ -3,16 +3,16 @@ Olá, 👋
 Meu nome é Lafaiete, sou Analista Testes e QA.
 
 - 🔭 Atualmente trabalho com Teste de API com o Postman
-- 🌱 Estou aprendendo automação de testes em Cypress
-- 📧 Meu e-mail é lafaiete.machado@gmail.com
+- 🌱 Estou estudando automação de testes em Cypress
 
 <div align="center">
   <a href="https://github.com/lafaietemachado">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=carla-franco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=carla-franco&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lafaietemachado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lafaietemachado&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## Tecnologias que conheço 
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -22,7 +22,7 @@ Meu nome é Lafaiete, sou Analista Testes e QA.
   <img align="center" alt="Selenium" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
   <img align="center" alt="Cucumber" src="https://img.shields.io/badge/Cucumber-open.svg?style=for-the-badge&logo=Cucumber&logoColor=white">
   <img align="center" alt="Jmeter" src="https://img.shields.io/badge/-Jmeter-%43B02A?style=for-the-badge&logo=Jmeter&logoColor=white">
-  <img align="center" alt="JUnit" src="https://camo.githubusercontent.com/693cd2f4cc7f46d6505b23a93c505ca4328a2e4b192c21f54a5863d5dbadd38c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a756e69742d6a7570697465722d677265656e2e737667?style=for-the-badge&logo=JUnit&logoColor=white">
+  <img align="center" alt="JUnit" src="https://img.shields.io/badge/-Junit-%43B02A?style=for-the-badge&logo=Junit&logoColor=white">
   
   * RestAssured 
   * Gherkin
@@ -43,10 +43,8 @@ Meu nome é Lafaiete, sou Analista Testes e QA.
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="SQLServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
   
-## Ferramentas que conheço e utilizo  
+## Ferramentas que utilizo  
   
-  <img align="center" alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-  <img align="center" alt="Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
   <img align="center" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
   <img align="center" alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img align="center" alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
